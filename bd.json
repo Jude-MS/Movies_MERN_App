@@ -1,0 +1,91 @@
+[{
+  "_id": {
+    "$oid": "62ba67673926791628a56188"
+  },
+  "title": "Jurassic World Dominio",
+  "imageUrl": "https://www.themoviedb.org/t/p/w600_and_h900_bestv2/98kYjbpa4MNAeW6qw8Kb1o2ylLj.jpg",
+  "synopsis": "Four years after the destruction of Isla Nublar, dinosaurs now live and hunt alongside humans all over the world. This fragile balance will change the future and determine, once and for all, whether humans should remain top predators on a planet they now share with history's most fearsome creatures.",
+  "rating": 8.2,
+  "releaseDate": "2022"
+},{
+  "_id": {
+    "$oid": "62ba68173926791628a56189"
+  },
+  "title": "Thor: End of Days ",
+  "imageUrl": "https://www.themoviedb.org/t/p/w600_and_h900_bestv2/f8Jn9wBMCmmhS5T3CkcmqwFhsQ.jpg",
+  "synopsis": "Thor: End of Days revolves around Thor's ongoing conflict with Loki, and Loki's insatiable thirst for power. When Loki escapes Asgard intent on conquering mankind, only Thor, the God Of Thunder, has the strength to stop him and prevent the End of Days.",
+  "rating": 6.4,
+  "releaseDate": "2020"
+},{
+  "_id": {
+    "$oid": "62ba68f23926791628a5618a"
+  },
+  "title": "War of the worlds",
+  "imageUrl": "https://www.themoviedb.org/t/p/w600_and_h900_bestv2/9eiUNsUAw2iwVyMeXNNiNQQad4E.jpg",
+  "synopsis": "A mother and her son face a brutal alien invasion in which survival will depend on discovering the unthinkable truth about the enemy.",
+  "rating": 7.8,
+  "releaseDate": "2021"
+},{
+  "_id": {
+    "$oid": "62ba69ae3926791628a5618b"
+  },
+  "title": "Ghost Rider 2",
+  "imageUrl": "https://www.themoviedb.org/t/p/w600_and_h900_bestv2/yokkUoswEXgPiNRZvQ2XrYCEbVp.jpg",
+  "synopsis": "When the devil emerges again with goals of taking over the world in human form, Johnny Blaze reluctantly comes out of hiding to transform into Ghost Rider, rescue a 10-year-old boy and save his soul, there's a chance Johnny can also save his own soul.",
+  "rating": 4.5,
+  "releaseDate": "2012"
+},{
+  "_id": {
+    "$oid": "62bc7acda5fb490e148d07a1"
+  },
+  "title": "Stranger Things",
+  "imageUrl": "https://www.themoviedb.org/t/p/w600_and_h900_bestv2/vFqqZoO3OcidBOk0l8jd4wu6YB3.jpg",
+  "synopsis": "After the strange disappearance of a boy, a town is faced with a mystery that reveals secret experiments, supernatural forces and a very special girl.",
+  "rating": 8.6,
+  "releaseDate": "2016"
+},{
+  "_id": {
+    "$oid": "62bc7b29a5fb490e148d07a2"
+  },
+  "title": "Spider's head",
+  "imageUrl": "https://www.themoviedb.org/t/p/w600_and_h900_bestv2/5eNrWoqKwpvrH8N4gajZsw0yUee.jpg",
+  "synopsis": "A prisoner in a high-tech prison begins to question the purpose of the emotion-controlling drugs he's testing for a pharmaceutical genius.",
+  "rating": 5.6,
+  "releaseDate": "2022"
+},{
+  "_id": {
+    "$oid": "62bc7b7ea5fb490e148d07a3"
+  },
+  "title": "Ms. Marvel",
+  "imageUrl": "https://www.themoviedb.org/t/p/w600_and_h900_bestv2/woZiAKaWDb3mm5JwNXcQ3MExWU0.jpg",
+  "synopsis": "A great student, avid gamer, and voracious fan-fic writer, Kamala Khan has a special affinity for Super Heroes, particularly Captain Marvel. Still, she struggles to fit in at home and at school — that is, until she gains superpowers like the superheroes she's always admired. Life is easier with super powers, right?",
+  "rating": 7.7,
+  "releaseDate": "2022"
+},{
+  "_id": {
+    "$oid": "62bc7c5fa5fb490e148d07a4"
+  },
+  "title": "Fantastic Beasts: Dumbledore's Secrets",
+  "imageUrl": "https://www.themoviedb.org/t/p/w600_and_h900_bestv2/yOeuJdwag4bAlnvgrdweRoiuXGC.jpg",
+  "synopsis": "Professor Albus Dumbledore knows that the powerful dark wizard Gellert Grindelward is moving to gain control of the wizarding world. Unable to stop it on his own, he entrusts magizoologist Newt Scamander to lead a fearless group of wizards, witches and a plucky Muggle baker on a perilous adventure where they will encounter beasts new and old as they clash with Grindelwald's followers.",
+  "rating": 6.8,
+  "releaseDate": "2022"
+},{
+  "_id": {
+    "$oid": "62bcaa2907369817b42b3964"
+  },
+  "title": "Flash",
+  "imageUrl": "https://www.themoviedb.org/t/p/w600_and_h900_bestv2/v53HU0aV1Di8QCpS1NHaNWrwFv2.jpg",
+  "synopsis": "Follow the speedy adventures of Barry Allen, an ordinary young man with a burning desire to help others. When an unexpected accelerating particle accidentally hits Barry, he suddenly finds himself charged with the incredible power to move at incredible speeds. While Barry has always had the soul of a hero, his new powers have given him the ability to act like one.",
+  "rating": 7.8,
+  "releaseDate": "2014"
+},{
+  "_id": {
+    "$oid": "62bcaae807369817b42b3965"
+  },
+  "title": "Collision",
+  "imageUrl": "https://www.themoviedb.org/t/p/w600_and_h900_bestv2/t2Bw6Yl4aiflTUXKW3CZ6xtjciy.jpg",
+  "synopsis": "Over the course of one fateful day, a corrupt businessman and his socialite wife race to save their daughter from a notorious crime lord.",
+  "rating": 5.9,
+  "releaseDate": "2022"
+}]

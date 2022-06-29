@@ -1,0 +1,122 @@
+.movie-details__box {
+    margin: 20px;
+}
+
+.movie-details__name {
+    width: 100%;
+    height: 4rem;
+    padding: 0px 40px;
+    display: flex;
+    align-items: center;
+    position: fixed;
+    top: 0;
+    left: 0;
+    background: #756c63;
+    box-shadow: 0 2px 6px rgba(0, 0, 0, 0.26);
+    z-index: 5;
+    color: #ffffff;
+    margin-top: 4rem;
+}
+
+.movie-details__box {
+    margin-top: 9rem;
+    display: flex;
+    flex-direction: row;
+    justify-content: flex-start;
+    align-items: center;
+}
+
+.movie-details__img {
+    width: 80%;
+    height: 100%;
+}
+
+.movie-details__img img{
+    width: 220px;
+    grid-row-end: span 2;
+}
+
+.movie-details__info {
+    width: 100%;
+    height: 100%;
+    display: flex;
+    flex-direction: column;
+    justify-content: flex-start;
+    align-items: center;
+    margin-top: -180px;
+}
+
+.movie-details__boxBtn {
+    margin-right: auto;
+    margin-top: 10px;
+   
+}
+.movie-details__btn {
+    background: #756c63;
+    border: 1px solid #756c63;
+    color: #ffffff;
+    padding: 15px 60px;
+    margin-top: 10px;
+   
+}
+
+.movie-details__rating {
+    margin-top: 25px;
+    margin-right: auto;
+    font-weight: 700;
+    font-size: 14px;
+}
+
+.movie-details__date {
+    margin-right: auto;
+}
+.movie-details__mns {
+    margin-right: auto;
+    font-style: italic;
+    font-size: 14px;
+}
+
+.movie-details__trailers,
+.movie-details__synopsis {
+    margin: 20px;
+    margin-top: 15px;
+    font-size: 18px;
+    color: #727272;
+}
+
+.movie-details__trailer {
+    padding: 20px;
+    background-color: #f0f0f0;
+    margin-top: 10px;
+    cursor: pointer;
+}
+
+@media (max-width: 768px) {
+   
+.movie-details__box {
+    justify-content: space-around;
+}
+
+.movie-details__img {
+    width: 60%;
+    height: 100%;
+}
+
+.movie-details__img img{
+    width: 150px;
+    grid-row-end: span 2;
+}
+
+.movie-details__info {
+    justify-content: space-between;
+    margin-left: 10px;
+    margin-top: -60px;
+}
+
+.movie-details__trailers,
+.movie-details__synopsis {
+    margin: 20px;
+    font-size: 14px;
+    color: #727272;
+}
+}
